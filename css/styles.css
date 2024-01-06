@@ -33,15 +33,29 @@ img{
    margin-right: auto;
 }
 
+#img-div{
+margin-bottom: 0;
+}
+
 #img-caption{
    font-size: small;
    text-align: center;
 }
 
+#img-credit{
+   max-width: 100%;  
+   display: block;
+   margin-top: 0;
+   margin-left: auto;
+   margin-right: auto;
+   font-size: smaller;
+   text-align: center;
+}
+
 ul{
-   margin-left: 15%;
-   margin-right: 15%;
-   padding:0;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 0 15%;
 }
 
 li{
